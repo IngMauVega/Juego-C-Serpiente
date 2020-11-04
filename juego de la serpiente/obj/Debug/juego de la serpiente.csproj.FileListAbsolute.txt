@@ -1,0 +1,9 @@
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\juego de la serpiente\bin\Debug\juego de la serpiente.exe.config
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\juego de la serpiente\bin\Debug\juego de la serpiente.exe
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\juego de la serpiente\bin\Debug\juego de la serpiente.pdb
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\juego de la serpiente\obj\Debug\juego de la serpiente.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\juego de la serpiente\obj\Debug\juego_de_la_serpiente.Form1.resources
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\juego de la serpiente\obj\Debug\juego_de_la_serpiente.Properties.Resources.resources
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\juego de la serpiente\obj\Debug\juego de la serpiente.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\juego de la serpiente\obj\Debug\juego de la serpiente.exe
+C:\Users\Dell\Documents\Cosas M\Proyectos Mau\juego de la serpiente\obj\Debug\juego de la serpiente.pdb
